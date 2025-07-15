@@ -421,7 +421,7 @@
 }
 .button1:active,
 .button2:active,
-.button3:active 
+.button3:active,
 .button4:active{
   transform: scale(0.96);
   background-color: #d8d8d8; /* halka grey color jab dabayein */
